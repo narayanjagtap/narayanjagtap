@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narayan Pandurang Jagtap</h1>
+<h1 align="center">Hi 👋, I'm Narayan Jagtap</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/narayanjagtap/narayanjagtap/assets/126967340/9f03e407-d3f3-4bdf-8b83-f20bac94833d">
