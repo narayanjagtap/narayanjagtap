@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/narayanpjagtap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narayan-jagtap-70bb30228/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/sumit.jagtap45?igshid=nte5mzuyotu=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sumit.jagtap45?igshid=nte5mzuyotu=" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/NarayanJagtap_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumit.jagtap" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6PGOR4wllLk4pRPLYB4RNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumit.jagtap" height="30" width="40" /></a>
 <a href="https://discord.gg/Narayan Jagtap#9284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Narayan Jagtap#9284" height="30" width="40" /></a>
 </p>
 
