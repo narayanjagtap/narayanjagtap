@@ -1,4 +1,4 @@
-![logo](https://github.com/narayanjagtap/narayanjagtap/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art%20(3).png)
+![logo](https://github.com/narayanjagtap/narayanjagtap/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Narayan Jagtap</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
