@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayanjagtap&label=Profile%20views&color=0e75b6&style=flat" alt="narayanjagtap" /> </p>
 
-- 🌱 I’m currently learning **Java | C++ | Web Devlopment**
+- 🌱 I’m currently learning **Java | Web Devlopment**
 
-- 💬 Ask me about **Java | HTML | JavaScript**
+- 💬 Ask me about **Java | DSA | Web Devlopment**
 
 - 📫 How to reach me **sj967334@gmail.com**
 
