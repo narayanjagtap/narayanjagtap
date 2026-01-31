@@ -65,7 +65,7 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/narayanjagtap/narayanjagtap/raw/main/Narayan_Resume.pdf">
+  <a href="https://github.com/narayanjagtap/NarayanaPortfolio/blob/main/images/NarayanJagtap_SoftDev.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="download resume" />
   </a>
 </p>
