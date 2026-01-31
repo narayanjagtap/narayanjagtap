@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm <a href="https://narayanjagtap.github.io/NarayanaPortfolio/" target="_blank" rel="noopener noreferrer"> Narayan Jagtap </a> </h1>
+<h1 align="center">👋 Hi, I'm <a href="https://narayanjagtap.github.io/NarayanaPortfolio/" target="_blank" rel="noopener noreferrer"> Narayan Jagtap </a> </h1> <img src="https://komarev.com/ghpvc/?username=narayanjagtap&style=flat-square&color=blue" alt="profile views" />
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -51,13 +52,25 @@
 
 <br>
 
-<!-- <table> -->
+<table>
   <tr>
     <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=narayanjagtap&show_icons=true&theme=dark&locale=en" alt="narayanjagtap" /></td> -->
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=narayanjagtap&show_icons=true&theme=dark&locale=en&layout=compact" alt="narayanjagtap" /></td>
     <!-- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayanjagtap&theme=dark" alt="narayanjagtap" /></td>  -->
+
+  <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=narayanjagtap&theme=react-dark&hide_border=true" width="500"/></td>
+
+    
   </tr>
-<!-- </table> -->
+</table>
+
+<p align="center">
+  <a href="https://github.com/narayanjagtap/narayanjagtap/raw/main/Narayan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="download resume" />
+  </a>
+</p>
+
+
 
 <div align="center">
 
