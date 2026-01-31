@@ -22,9 +22,6 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### 🚀 My Latest Projects
-**Weather App Status:** ![Java CI](https://github.com/narayanjagtap/Weather-App/actions/workflows/maven.yml/badge.svg)
-
 
 <h3 align="left">Languages :</h3>
 <div align="left">
