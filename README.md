@@ -43,3 +43,5 @@
 <div align="center">
 
   </div>
+### 🚀 My Latest Projects
+**Weather App Status:** ![Java CI](https://github.com/narayanjagtap/Weather-App/actions/workflows/maven.yml/badge.svg)
